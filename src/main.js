@@ -1,5 +1,5 @@
 import Vue from "vue";
-import App from "./step2-4_goal/App.vue";
+import App from "./step1-1/App.vue";
 
 Vue.config.productionTip = false;
 
